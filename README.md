@@ -1,2 +1,2 @@
 # Goruntu_Isleme
-Görüntü İşleme Dersi Kodları
+Görüntü İşleme Ders Kodları
